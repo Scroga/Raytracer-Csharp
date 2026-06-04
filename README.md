@@ -8,3 +8,7 @@
 ---
 
 * [Config files description](docs/configs.md)
+
+---
+
+![Raytracer example](Images/example.jpg)
