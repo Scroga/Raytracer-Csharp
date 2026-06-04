@@ -1,0 +1,9 @@
+{
+    "Threaded": true,
+    "TileSize": 16,
+    "Shadows": true,
+    "Reflections": true,
+    "SamplesPerPixel": 9,
+    "MaxDepth": 8,
+    "MinPerformance": 0.01
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "default": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\illy_\\Desktop\\Prog\\PhotorealisticGraphics\\solution\\raytracer\\bin\\Debug\\net8.0\\Raytracer.exe",
+      "commandLineArgs": "-v -s \"Configs/Scenes/Solids.json\" -c \"Configs/default.json\"",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
